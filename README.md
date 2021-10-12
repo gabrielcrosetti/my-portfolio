@@ -20,4 +20,4 @@ https://gabrielcrosetti.github.io/my-portfolio/
 
 ## Acknowledgements
 * W3 Schools
-* Bootstrap
+* Get Bootstrap
