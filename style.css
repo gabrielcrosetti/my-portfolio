@@ -20,5 +20,29 @@ transition: 0.5s ease;
 
 .main-container {
     min-height: 100vh;
-    padding-top: 5rem;
+    padding-top: 75px;
 }
+
+.main-row{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+img {
+    height: 350px;
+    width: 325px;
+    border-radius: 25%;
+}
+
+.main-row h1 {
+    font-size: 5rem;
+}
+
+.about-me-title{
+    font-size: 36px;
+}
+.about-me-para {
+    font-size: 22px;
+}
+
