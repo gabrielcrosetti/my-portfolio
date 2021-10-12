@@ -19,17 +19,17 @@ transition: 0.5s ease;
 }
 
 .main-container {
-    min-height: 100vh;
-    padding-top: 75px;
+    /* min-height: 100vh;
+    padding-top: 75px; */
 }
 
-.main-row{
+/* .main-row{
 display: flex;
 justify-content: center;
 align-items: center;
-}
+} */
 
-img {
+.about-image {
     height: 350px;
     width: 325px;
     border-radius: 25%;
